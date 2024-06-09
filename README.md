@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faila-Txela
-- 👀 I’m interessada in aprender muito mais programação,especialmente o backend
-- 🌱 I’m currently learning C ,C#, HTML e CSS
+- 👀 Estou aprendo sobre programação.
+- 🌱 I’m currently learning C, HTML CSS e JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
