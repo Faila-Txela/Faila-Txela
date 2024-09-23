@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Faila-Txela
-- 👀 Estou aprendo sobre programação.
-- 🌱 I’m currently learning C, HTML CSS e JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estou aprendendo programação Web.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP.
 
 <!---
 Faila-Txela/Faila-Txela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
